@@ -1,2 +1,3 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=teresahanak) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/teresahanak/math-stacks) ![GitHub contributors](https://img.shields.io/github/contributors/teresahanak/math-stacks) ![GitHub language count](https://img.shields.io/github/languages/count/teresahanak/math-stacks) ![GitHub top language](https://img.shields.io/github/languages/top/teresahanak/math-stacks) ![GitHub last commit](https://img.shields.io/github/last-commit/teresahanak/math-stacks)  
 # math-stacks
 An example project illustrating implementation of stack data structures to evaluate arithmetical expressions from strings such as "12 / ( 2 + 4 ) * 21"
